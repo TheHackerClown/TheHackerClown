@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruv Pratap Singh</h1>
 <h3 align="center">A self-taught Backend Developer From India</h3>
 
-<p align="left"> <a href="https://twitter.com/luckbychance17" target="blank"><img src="https://img.shields.io/twitter/follow/luckbychance17?logo=twitter&style=for-the-badge" alt="luckbychance17" /></a> </p>
+<p align="left"> <a href="https://x.com/thehackerclown" target="blank"><img src="https://img.shields.io/twitter/follow/thehackerclown?logo=twitter&style=for-the-badge" alt="thehackerclown" /></a> </p>
 
 - 🔭 I’m currently working on **Vantage, A Payroll Software, Focused Mainly Towards ESI & EPF**
 
