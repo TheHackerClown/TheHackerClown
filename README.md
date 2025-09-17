@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Jady, A Payroll Software, Focused Mainly Towards ESI & EPF**
 
-- 🌱 I’m currently learning **Typescript, Javascript, NEXT.js, Express**
+- 🌱 I’m currently learning **Express, Rust**
 
 - 👯 I’m looking to collaborate on **Backend Servers, Saas and more.**
 
 - 💲 Built Balaji Kite House E-Commerce Website **balajikitehouse.in** [Paid]
 
-- 💬 Ask me about **Django, Python**
+- 💬 Ask me about **Django, Python, Typescript, Javascript, NEXT.js**
 
 - ⚡ Fun fact **venv is heavy.**
 
