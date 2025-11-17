@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **Backend Servers, Saas and more.**
 
-- 💲 Built Balaji Kite House E-Commerce Website **balajikitehouse.in** [Paid]
-
 - 💬 Ask me about **Django, Python, Typescript, Javascript, NEXT.js**
 
 - ⚡ Fun fact **venv is heavy.**
